@@ -5,6 +5,18 @@
 
 A Python and Streamlit project for analyzing exported WhatsApp chat data.
 
+
+**Developed by:** **Yanaguntikar Meesal**
+
+
+**📧 Email:** **[yanaguntikarm@gmail.com](mailto:yanaguntikarm@gmail.com)**
+
+
+**🌐 Live Project:** [ WhatsApp Chat Analyzer](https://whatsappchatanalysis-dhysuccmgtkyo84vsykyve.streamlit.app/)
+
+
+
+
 ## 📁 Project Structure
 
 ```text
