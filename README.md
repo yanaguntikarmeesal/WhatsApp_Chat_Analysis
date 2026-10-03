@@ -12,7 +12,7 @@ A Python and Streamlit project for analyzing exported WhatsApp chat data.
 **📧 Email:** **[yanaguntikarm@gmail.com](mailto:yanaguntikarm@gmail.com)**
 
 
-**🌐 Live Project:** https://whatsappchatanalysis-dhysuccmgtkyo84vsykyve.streamlit.app/
+**🌐 Live Project:** https://whatsappchatanalysis-dhysuccmgtkyo84vsykyve.streamlit.app
 
 
 
